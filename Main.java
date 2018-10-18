@@ -1,7 +1,7 @@
 package Principal;
 import java.util.List;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         var rationals = List.of(
                 new Rational(1, 4),
